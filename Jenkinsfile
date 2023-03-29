@@ -1,4 +1,4 @@
-pipline{
+pipeline{
 
     agent any
 
@@ -23,5 +23,4 @@ pipline{
 
    }  
     
-
 }
